@@ -17,3 +17,8 @@ The experiment has been trained in Windows OS with 16GB RAM, a premium graphics 
 * AmazonMen: 97K users, 324K images, 0.3M actions
 
 The datasets can be downloaded from dataset.sh file.
+
+## References 
+The project is an implementation of the paper "Personalized Fashion Recommendation with Visual Explanations based on Multimodal Attention Network" with changes to the DCGAN and GAN model for neural network training.
+
+Xu Chen, Hanxiong Chen, Hongteng Xu, Yongfeng Zhang, Yixin Cao, Zheng Qin, and Hongyuan Zha. 2019. Personalized Fashion Recommendation with Visual Explanations based on Multimodal Attention Network: Towards Visually Explainable Recommendation. In Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR'19). Association for Computing Machinery, New York, NY, USA, 765–774. DOI:https://doi.org/10.1145/3331184.3331254
