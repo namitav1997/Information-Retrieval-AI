@@ -155,7 +155,7 @@ init = tf.initialize_all_variables()
 
 def AUC(train,test,U,I):
     ans=0
-    cc=0
+    cc=0.0
     for u in train:    
         i=test[u][0]['productid']
         T=np.dot(U[u,:],I.T)
