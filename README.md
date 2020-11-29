@@ -20,8 +20,8 @@ The datasets can be downloaded from dataset.sh file.
 
 ## Training
 * Download the python notebooks and run them in the following order for training and fashion recommendation results:
-* (A) Extracting Data
-* (B) Splitting Data
+* (A) Extracting Data //
+* (B) Splitting Data//
 * (C) Cleaning Data for Attribute Tagging
 * (D) Balancing Imbalanced Data
 * (E) POC Recommender with MVC
