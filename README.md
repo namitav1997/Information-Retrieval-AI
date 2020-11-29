@@ -20,11 +20,11 @@ The datasets can be downloaded from dataset.sh file.
 
 ## Training
 * Download the python notebooks and run them in the following order for training and fashion recommendation results:
-(A) Extracting Data
-(B) Splitting Data
-(C) Cleaning Data for Attribute Tagging
-(D) Balancing Imbalanced Data
-(E) POC Recommender with MVC
+* (A) Extracting Data
+* (B) Splitting Data
+* (C) Cleaning Data for Attribute Tagging
+* (D) Balancing Imbalanced Data
+* (E) POC Recommender with MVC
 
 ## References 
 The project is an implementation of the paper "Personalized Fashion Recommendation with Visual Explanations based on Multimodal Attention Network" with changes to the DCGAN and GAN model for neural network training.
