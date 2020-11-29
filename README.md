@@ -19,7 +19,7 @@ The experiment has been trained in Windows OS with 16GB RAM, a premium graphics 
 The datasets can be downloaded from dataset.sh file.
 
 ## Training
-* Download the python notebooks and run them in the following order for training and fashion recommendation results:
+* Download the python notebooks and run them in the following order for training and fashion recommendation results: <br/>
 (A) Extracting Data <br/>
 (B) Splitting Data <br/>
 (C) Cleaning Data for Attribute Tagging <br/>
